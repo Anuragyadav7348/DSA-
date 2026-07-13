@@ -16,6 +16,7 @@ public class Demo1 {
      static class Inner {
         void fun(Outer outer) {
             System.err.println(outer.x);
+           // System.err.println(outer.y);
         }
 
      }

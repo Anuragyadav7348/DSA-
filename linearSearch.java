@@ -6,7 +6,7 @@ public class linearSearch {
 }
 
 static int linearSearch(int[] arr, int target){
-    if (arr.lenght ==0){
+    if (arr.length ==0){
         return -1;
 
     }
