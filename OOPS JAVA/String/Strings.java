@@ -22,7 +22,7 @@ public static void printLetters(String str){
         System.err.println(fullName.length());
 
         //conacatenation
-        String firstName = "Anurag";
+        String firstName = "Anil";
         String lastName = "Yadav";
         String FullName = firstName + " " + lastName;
         System.out.println(fullName.charAt(0));
